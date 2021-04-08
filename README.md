@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with Documentation and YouTube videos.
 - 💬 Ask me about Flutter (Dart).
-- 📫 How to reach me: Yahoo - [@iusamaashraf](https://www.yahoo.com/?err=404&err_url=https%3a%2f%2fwww.yahoo.com%2fiusamaashraf)
+- 📫 How to reach me: Yahoo - [@iusamaashraf](https://mail.yahoo.com/d/compose/8823605987)
 - ⚡ Fun fact: Code,Eat,Sleep 😄
 
 
