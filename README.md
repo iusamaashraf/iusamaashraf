@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Documentation and YouTube videos.
 - 💬 Ask me about Flutter (Dart).
 - 📫 How to reach me: Yahoo - @iusamaashraf
-- ⚡ Fun fact: Code,Eat,Sleep 😄😄😄
+- ⚡ Fun fact: Code,Eat,Sleep 😄
