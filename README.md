@@ -3,11 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Flutter Frontend and State Management.
-- 🤔 I’m looking for help with Documentation and YouTube videos.
+- 🌱 I'm available for projects.
 - 💬 Ask me about Flutter (Dart).
 - 📫 How to reach me: LinkDln - [@iusamaashraf](https://www.linkedin.com/in/usama-ashraf-201484204/)
-- ⚡ Fun fact: Code,Eat,Sleep 😄
 
 
 
